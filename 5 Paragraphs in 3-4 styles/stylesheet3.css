@@ -1,0 +1,51 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+
+h1 {
+    text-align: center;
+    color: pink;
+}
+
+body {
+  font-family: 'Proxima Nova', sans-serif;
+  letter-spacing: .075em;
+}
+
+.container {
+  max-width:900px;
+  position:relative;
+  border: 2px solid black;
+  margin: 0 auto;
+}
+
+
+
+section {
+  padding: 20px;
+    
+}
+
+#section1 {
+  background-color: lightpink;  
+}
+
+#section2 {
+  background-color: aquamarine;
+}
+
+#section3 {
+  background-color: white;
+
+}
+#section4 {
+  background-color: pink;
+
+}
+#section5 {
+  background-color: aquamarine;
+
+}

@@ -1,0 +1,37 @@
+
+h1 {
+    text-align: center;
+    color: navy;
+}
+
+body {
+  width: 500px;
+  margin: 0 auto;
+}
+
+p {
+  background: pink;
+  border: 3px solid blue;
+  padding: 10px;
+  margin: 10px;
+}
+.positioned {
+  position: relative;
+  background: lightblue;
+  top: 30px;
+  left: 30px;
+}
+
+.positioned2 {
+  position: absolute;
+  background: aquamarine;
+  top: 30px;
+  left: 30px;
+}
+
+.positioned3 {
+  position: relative;
+  background: yellow;
+  top: 30px;
+  left: 30px;
+}

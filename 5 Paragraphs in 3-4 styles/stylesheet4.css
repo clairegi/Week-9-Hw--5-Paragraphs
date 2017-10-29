@@ -1,0 +1,55 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+body {
+  font-family: 'Work Sans', sans-serif;
+  letter-spacing: .075em;
+  color: white;
+}
+
+.container {
+  max-width:800px;
+  position:relative;
+  margin: 0 auto;
+}
+
+/*styling each section div*/
+section { 
+    padding: 40px;
+    width: 400px;
+    float: left;
+    margin: 10px;
+    min-height: 600px;
+
+
+}
+
+#section1 {
+  background-color: red;  
+}
+
+#section2 {
+  background-color: black;
+}
+
+#section3 {
+  background-color: white;
+  color: black;
+}
+
+#section4 {
+  background-color: black;  
+}
+
+#section5 {
+  background-color: red;  
+}
